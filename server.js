@@ -11,7 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 app.use('/database/img', express.static(path.join(__dirname, 'database/img')));
 // Middleware
 app.use(
@@ -20,8 +20,7 @@ app.use(
     })
 );
 app.use(cors({
-    origin: '*',
-    credentials: true,
+    origin: process.env.CLIENT_URL
 }));
 app.use(express.json({ limit: 'Infinity' }));
 
