@@ -18,7 +18,7 @@
     "suspensions": "full suspensions",
     "weigth": 10.5,
     "price": 13.998,
-    "image": "http://localhost:3001/database/img/C25_C24085U_LAB71_Scalpel_Crb_Team_REP_PD.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/C25_C24085U_LAB71_Scalpel_Crb_Team_REP_PD.jpg",
     "id": 1,
     "createdAt": "2025-10-13T13:23:54.649Z",
     "updatedAt": "2025-10-13T13:23:54.649Z"
@@ -42,7 +42,7 @@
     "suspensions": "full suspensions",
     "weigth": 12.5,
     "price": 4.999,
-    "image": "http://localhost:3001/database/img/C24_C24403U_Scalpel_Crb_3_TSK_3Q.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/C24_C24403U_Scalpel_Crb_3_TSK_3Q.jpg",
     "id": 2,
     "createdAt": "2025-10-13T13:44:57.282Z",
     "updatedAt": "2025-10-13T13:44:57.282Z"
@@ -65,7 +65,7 @@
     "suspensions": "front suspensions",
     "weigth": 9.5,
     "price": 10.499,
-    "image": "http://localhost:3001/database/img/C23_C25053U_LAB71_Scalpel_HT_BLK_PD.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/C23_C25053U_LAB71_Scalpel_HT_BLK_PD.jpg",
     "id": 3,
     "createdAt": "2025-10-13T13:52:05.901Z",
     "updatedAt": "2025-10-13T13:52:05.901Z"
@@ -88,7 +88,7 @@
     "suspensions": "without suspensions",
     "weigth": 7.5,
     "price": 15.499,
-    "image": "http://localhost:3001/database/img/BICI-DA-CORSA-CANNONDALE-SUPERSIX-EVO-LAB71-56-MOX-C11052U1056.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/BICI-DA-CORSA-CANNONDALE-SUPERSIX-EVO-LAB71-56-MOX-C11052U1056.jpg",
     "id": 4,
     "createdAt": "2025-10-13T13:56:46.342Z",
     "updatedAt": "2025-10-13T13:56:46.342Z"
@@ -110,7 +110,7 @@
     "suspensions": "without suspensions",
     "weigth": 8,
     "price": 6.499,
-    "image": "http://localhost:3001/database/img/C25_C11402U_SuperSix_EVO_Crb_2_MRD_PD.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/C25_C11402U_SuperSix_EVO_Crb_2_MRD_PD.jpg",
     "id": 5,
     "createdAt": "2025-10-13T14:02:35.652Z",
     "updatedAt": "2025-10-13T14:02:35.652Z"
@@ -133,7 +133,7 @@
     "suspensions": "without suspensions",
     "weigth": 8,
     "price": 8.499,
-    "image": "http://localhost:3001/database/img/sl8_pro_verde_2_1.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/sl8_pro_verde_2_1.jpg",
     "id": 6,
     "createdAt": "2025-10-13T14:10:34.815Z",
     "updatedAt": "2025-10-13T14:10:34.815Z"
@@ -156,7 +156,7 @@
     "suspensions": "full suspensions",
     "weigth": 11,
     "price": 14.499,
-    "image": "http://localhost:3001/database/img/90326-01.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/90326-01.jpg",
     "id": 7,
     "createdAt": "2025-10-13T14:14:23.749Z",
     "updatedAt": "2025-10-13T14:14:23.749Z"
@@ -179,7 +179,7 @@
     "suspensions": "full suspensions",
     "weigth": 18,
     "price": 7.499,
-    "image": "http://localhost:3001/database/img/turbo-kenevo-sl-2-comp-2025.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/turbo-kenevo-sl-2-comp-2025.jpg",
     "id": 8,
     "createdAt": "2025-10-13T14:18:15.858Z",
     "updatedAt": "2025-10-13T14:18:15.858Z"
@@ -202,7 +202,7 @@
     "suspensions": "full suspensions",
     "weigth": 11,
     "price": 8.499,
-    "image": "http://localhost:3001/database/img/orbea-oiz-m-team-factory.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/orbea-oiz-m-team-factory.jpg",
     "id": 9,
     "createdAt": "2025-10-13T14:29:46.650Z",
     "updatedAt": "2025-10-13T14:29:46.650Z"
@@ -225,7 +225,7 @@
     "suspensions": "without suspensions",
     "weigth": 8,
     "price": 10.499,
-    "image": "http://localhost:3001/database/img/T116TTCC-A7-SIDE-ORCA_M10iLTD_PWR_over.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/T116TTCC-A7-SIDE-ORCA_M10iLTD_PWR_over.jpg",
     "id": 10,
     "createdAt": "2025-10-13T14:33:56.902Z",
     "updatedAt": "2025-10-13T14:33:56.902Z"
@@ -248,7 +248,7 @@
     "suspensions": "without suspensions",
     "weigth": 16,
     "price": 8.499,
-    "image": "http://localhost:3001/database/img/moterra-1-2025.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/moterra-1-2025.jpg",
     "id": 11,
     "createdAt": "2025-10-13T14:39:06.604Z",
     "updatedAt": "2025-10-13T14:39:06.604Z"
@@ -272,7 +272,7 @@
     "suspensions": "full suspensions",
     "weigth": 10.5,
     "price": 13.998,
-    "image": "http://localhost:3001/database/img/C25_C24085U_LAB71_Scalpel_Crb_Team_REP_PD.jpg",
+    "image": "https://oninotna-bike-showroom-28c4b41c432f.herokuapp.com/database/img/C25_C24085U_LAB71_Scalpel_Crb_Team_REP_PD.jpg",
     "id": 12,
     "createdAt": "2025-10-13T13:23:54.649Z",
     "updatedAt": "2025-10-13T13:23:54.649Z"
